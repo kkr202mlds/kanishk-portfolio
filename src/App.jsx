@@ -1,8 +1,6 @@
 import React from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
 
-export default function Portfolio() {
+export default function App() {
   return (
     <main className="p-6 max-w-5xl mx-auto space-y-8">
       <section className="text-center space-y-2">
