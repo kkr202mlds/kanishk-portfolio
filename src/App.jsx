@@ -86,6 +86,7 @@ export default function App() {
           <li>
             <strong>Health and Medicine Assistant Chatbot Project for Different Languages</strong>
             <p>Google Data Project sources based on Python Language</p>
+          <p className="pt-2">🔗 <a className="text-blue-600" href="https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM">Video Present Link[Health and Medicine Chatbot Assistant Project]</a></p>
           </li>
           <li>
             <strong>Question Answering with Fine-tuned BERT on BoolQ</strong>
