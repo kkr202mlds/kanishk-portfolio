@@ -34,7 +34,7 @@ export default function App() {
         <h2 className="text-2xl font-semibold mb-3">🧪 Professional Work Experiences, Research & Courses</h2>
         <ul className="space-y-4">
           <li> 
-            <strong>Resident Engineer - PCI Prime Group (2024 - 2025)</strong>
+            <strong>Resident Engineer - PCI Prime Group (Nov, 2024 - Feb, 2025)</strong>
            <p>Escorts Kubota - Faridabad, HR, IN</p>
           <ul className="list-disc pl-5">
             <li>Inventory Management, Software Update, Desktop Connection. MS Office.</li>
@@ -50,32 +50,13 @@ export default function App() {
           </ul>
           </li>
           <li> 
-           <strong>🇬🇱 Associate Analyst, Content Engineering - [Hitachi Group Company] (2022 - 2023)</strong>
+           <strong>🇬🇱 Associate Analyst, Content Engineering - [Hitachi Group Company] (Nov, 2022 - April, 2023)</strong>
             <p>GlobalLogic Technologies Pvt Ltd - Gurugram, Haryana</p>
           <ul className="list-disc pl-5">
             <li>Google Data Project sources based on Python Language & ML.</li>
             <li className= "mb-7">Use Data Analytical Tool tasks for image detection, recognition..</li>
           </ul>
          </li>
-         <li> 
-            <strong>📊 Implementation of Football Analytics with Data Revolution [Master Research Thesis] (2023 - 2024)</strong>
-           <p>Higher School of Economics - Moscow, Russian Federation</p>
-          <ul className="list-disc pl-5">
-            <li>To Analyze Football Matches and Events Data uses Machine Learning models like Logistic & Piecewise Regression, K-Means Model</li>
-            <li>Applied loss functions and compare Different AUC Curves and accuracy score performance metrics.</li>
-          </ul>
-            <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Impl_Fot_Anl_w_Dat_Revo">GitHub Master Research Thesis</a></p>
-          </li>
-         <li>
-            <strong>🏁 Udemy - The Complete Machine Learning Course with Python (2024 - 2025)</strong>
-            <p>Statistics & Linear Algebra, EDA, Supervised, Unsupervised, Deep Learning, Model Selection, NLP</p>
-        <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py">GitHub ML Python</a></p>
-	  </li>
-          <li>
-            <strong>🏁 Udemy - Python 3: Project-based Python, Algorithms, Data Structures (2024 - 2025)</strong>
-            <p>Data Structure, Sorting, Graph & Search Algorithms, Recursion & Backtracking, Dynamic Programming</p>
-        <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc">GitHub Data Structure & Algorithm</a></p>
-	  </li>
         </ul>
      </section>
      
@@ -83,6 +64,15 @@ export default function App() {
       <section>
         <h2 className="text-2xl font-semibold mb-3">🧠 Projects</h2>
         <ul className="space-y-4">
+		  <li> 
+            <strong>📊 Football Data Analysis with ML, LR, LSTM, NLP, Cluster & Statistic Method Project (Jan, 2023 - July, 2023)</strong>
+           <p>Higher School of Economics - Moscow, Russian Federation</p>
+          <ul className="list-disc pl-5">
+            <li>To Analyze Football Matches and Events Data uses Machine Learning models like Logistic & Piecewise Regression, K-Means Model</li>
+            <li>Applied loss functions and compare Different AUC Curves and accuracy score performance metrics.</li>
+          </ul>
+            <p className="pt-2">🔗 <a className="text-blue-600" href="https://www.youtube.com/watch?v=wAfRRCoxSV4</a></p>
+          </li>
           <li>
             <strong>Health and Medicine Assistant Chatbot Project for Different Languages</strong>
             <p>Google Data Project sources based on Python Language</p>
@@ -95,10 +85,13 @@ export default function App() {
           <li>
             <strong>Click prediction analysis with Spark RDD & DataFrame APIs</strong>
             <p>Advanced Hadoop RDD Python DataFrame LSML | 🛠️ Tools: Python, Spark, HDFS, RDD</p>
+			<p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs</a></p>
+			  https://github.com/kkr202mlds/Advanced-Python-Spark-DataFrame-and-HDFS-RDD-LSML
           </li>
           <li>
-            <strong>Iris Classification Application with Explorating Data Analysis</strong>
+            <strong>Iris Classification App with ML flow, Data Analysis, Docker, Flask & Celery</strong>
             <p>SVM, LR, DT, K-NN, LSML, Data Visualization | 🛠️ Tools: Python, Flask, Docker, Celery, MLflow</p>
+		    <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery</a></p>							  
           </li>
           <li>
             <strong>IMDB Exploratory Data Analysis & Visualization with Machine Learning</strong>
@@ -112,6 +105,16 @@ export default function App() {
         <h2 className="text-2xl font-semibold mb-3">🚀 Certifications</h2>
         <ul className="list-disc pl-5">
           <li className="mb-7">IBM Python 101 for Data Science</li>
+		  <li>
+            <strong>🏁 Udemy - The Complete Machine Learning Course with Python (2024 - 2025)</strong>
+            <p>Statistics & Linear Algebra, EDA, Supervised, Unsupervised, Deep Learning, Model Selection, NLP</p>
+        <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py">GitHub ML Python</a></p>
+	  </li>
+          <li>
+            <strong>🏁 Udemy - Python 3: Project-based Python, Algorithms, Data Structures (2024 - 2025)</strong>
+            <p>Data Structure, Sorting, Graph & Search Algorithms, Recursion & Backtracking, Dynamic Programming</p>
+        <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc">GitHub Data Structure & Algorithm</a></p>
+	  </li>
         </ul>
       </section>
 
