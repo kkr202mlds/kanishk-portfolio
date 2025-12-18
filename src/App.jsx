@@ -93,9 +93,9 @@ export default function App() {
 		    <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery</a></p>							  
           </li>
           <li>
-            <strong>IMDB Exploratory Data Analysis & Visualization with Machine Learning</strong>
+            <strong>IMDB Exploratory Data Analysis & Visualization with Machine Learning </strong>
             <p>Logistic Regression , K Neighbors, Decision Tree Classifier Model | 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly & Transformer</p>
-            <p className="pt-2 mb-7">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/ML_Exploratory_Data_Analysis.git">GitHub IMDB EDA Transformer ML</a></p>
+            <p className="pt-2 mb-7">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git">GitHub IMDB EDA Transformer ML</a></p>
 	</li>
         </ul>
       </section>
