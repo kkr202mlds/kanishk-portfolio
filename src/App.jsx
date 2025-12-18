@@ -66,7 +66,7 @@ export default function App() {
         <ul className="space-y-4">
 		  <li> 
             <strong>📊 Football Data Analysis with ML, LR, LSTM, NLP, Cluster & Statistic Method Project (Jan, 2023 - July, 2023)</strong>
-           <p>Higher School of Economics - Moscow, Russian Federation</p>
+            <p>Higher School of Economics - Moscow, Russian Federation</p>
           <ul className="list-disc pl-5">
             <li>To Analyze Football Matches and Events Data uses Machine Learning models like Logistic & Piecewise Regression, K-Means Model</li>
             <li>Applied loss functions and compare Different AUC Curves and accuracy score performance metrics.</li>
@@ -76,7 +76,7 @@ export default function App() {
           <li>
             <strong>Health and Medicine Assistant Chatbot Project for Different Languages</strong>
             <p>Google Data Project sources based on Python Language</p>
-          <p className="pt-2">🔗 <a className="text-blue-600" href="https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM">Video Present Link[Health and Medicine Chatbot Assistant Project]</a></p>
+            <p className="pt-2">🔗 <a className="text-blue-600" href="https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM">Video Present Link[Health and Medicine Chatbot Assistant Project]</a></p>
           </li>
           <li>
             <strong>Question Answering with Fine-tuned BERT on BoolQ</strong>
@@ -90,7 +90,7 @@ export default function App() {
           <li>
             <strong>Iris Classification App with ML flow, Data Analysis, Docker, Flask & Celery</strong>
             <p>SVM, LR, DT, K-NN, LSML, Data Visualization | 🛠️ Tools: Python, Flask, Docker, Celery, MLflow</p>
-		    <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery</a></p>							  
+            <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery</a></p>							  
           </li>
           <li>
             <strong>IMDB Exploratory Data Analysis & Visualization with Machine Learning </strong>
@@ -107,12 +107,12 @@ export default function App() {
 		  <li>
             <strong>🏁 Udemy - The Complete Machine Learning Course with Python (2024 - 2025)</strong>
             <p>Statistics & Linear Algebra, EDA, Supervised, Unsupervised, Deep Learning, Model Selection, NLP</p>
-        <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py">GitHub ML Python</a></p>
+            <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py">GitHub ML Python</a></p>
 	  </li>
           <li>
             <strong>🏁 Udemy - Python 3: Project-based Python, Algorithms, Data Structures (2024 - 2025)</strong>
             <p>Data Structure, Sorting, Graph & Search Algorithms, Recursion & Backtracking, Dynamic Programming</p>
-        <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc">GitHub Data Structure & Algorithm</a></p>
+            <p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc">GitHub Data Structure & Algorithm</a></p>
 	  </li>
         </ul>
       </section>
