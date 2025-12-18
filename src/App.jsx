@@ -86,7 +86,6 @@ export default function App() {
             <strong>Click prediction analysis with Spark RDD & DataFrame APIs</strong>
             <p>Advanced Hadoop RDD Python DataFrame LSML | 🛠️ Tools: Python, Spark, HDFS, RDD</p>
 			<p className="pt-2">🔗 <a className="text-blue-600" href="https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs</a></p>
-			  https://github.com/kkr202mlds/Advanced-Python-Spark-DataFrame-and-HDFS-RDD-LSML
           </li>
           <li>
             <strong>Iris Classification App with ML flow, Data Analysis, Docker, Flask & Celery</strong>
